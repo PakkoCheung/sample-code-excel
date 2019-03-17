@@ -1,0 +1,14 @@
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\FirstExcelAddIn.dll
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\FirstExcelAddIn.pdb
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\FirstExcelAddIn.dll.manifest
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\FirstExcelAddIn.vsto
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.Properties.Resources.resources
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.Ribbon1.resources
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.ProjectFormSelectionPane.resources
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.csproj.GenerateResource.cache
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.csproj.CoreCompileInputs.cache
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.csproj.CopyComplete
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.dll
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.pdb
+C:\Users\Kong\source\repos\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
